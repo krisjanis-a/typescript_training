@@ -19,8 +19,8 @@ console.log(result)
 
 /**
  * 
- * @param word1 
- * @param word2 
+ * @param word1 a word
+ * @param word2 a word
  * @returns concatenated word
  */
 

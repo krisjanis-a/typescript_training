@@ -1,4 +1,4 @@
-const numbers = [1, 2, 4, 8, 16, 32, 64];
+const numbers = [0, 1, 2, 4, 8, 16, 32, 64];
 let powerOfTwo: number[];
 
 powerOfTwo = numbers.map((num) => 2 ** num);
